@@ -7,7 +7,6 @@
   </a>
 </p>
 
-- 💻 I’m currently working as a **Fullstack Developer at Jummon**
 - 🚀 I build **scalable APIs and web applications** using **Go, TypeScript, React, and Java Spring**
 - 🐳 I work with **Docker, CI/CD pipelines**, and **agile methodologies**
 - 🌱 Currently learning **Kubernetes, AWS, Kafka, Node**
